@@ -1,0 +1,25 @@
+model,partition,fold,mae,r2
+Median baseline,development_cv,1,1.17544,-0.00833
+Median baseline,development_cv,2,1.36519,-0.25864
+Median baseline,development_cv,3,1.10085,-0.00842
+Median baseline,development_cv,4,1.10935,-0.23332
+Median baseline,development_cv,5,1.34869,-0.00147
+Median baseline,holdout,0,0.96899,-0.02528
+Clinical ridge,development_cv,1,1.08915,0.08180
+Clinical ridge,development_cv,2,1.16324,0.09215
+Clinical ridge,development_cv,3,1.11230,-0.01611
+Clinical ridge,development_cv,4,0.80744,0.20785
+Clinical ridge,development_cv,5,1.22814,0.17177
+Clinical ridge,holdout,0,0.96800,0.03717
+Expression ridge,development_cv,1,1.38013,-0.37280
+Expression ridge,development_cv,2,1.62288,-0.81462
+Expression ridge,development_cv,3,1.16339,-0.12391
+Expression ridge,development_cv,4,1.10453,-0.21362
+Expression ridge,development_cv,5,1.50522,-0.35212
+Expression ridge,holdout,0,1.08774,-0.29201
+Expression random forest,development_cv,1,1.23521,-0.09547
+Expression random forest,development_cv,2,1.41192,-0.23976
+Expression random forest,development_cv,3,1.17386,-0.08431
+Expression random forest,development_cv,4,1.04101,-0.06031
+Expression random forest,development_cv,5,1.45408,-0.11621
+Expression random forest,holdout,0,1.04207,-0.11648

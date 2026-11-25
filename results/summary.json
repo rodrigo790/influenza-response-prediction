@@ -1,0 +1,15 @@
+{
+  "participants": 275,
+  "development_n": 206,
+  "holdout_n": 69,
+  "genes_in_input": 35707,
+  "outcome": "log2 average HAI seroconversion at day 28",
+  "best_holdout_model": "Clinical ridge",
+  "holdout_mae": {
+    "Clinical ridge": 0.968,
+    "Median baseline": 0.969,
+    "Expression random forest": 1.0421,
+    "Expression ridge": 1.0877
+  },
+  "top_random_forest_feature": "ENSG00000188107"
+}

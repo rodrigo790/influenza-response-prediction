@@ -1,0 +1,26 @@
+{
+  "g207-tpm.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE207nnn/GSE207750/suppl/GSE207750_UGA4_D0_tpm.csv.gz",
+    "sha256": "0bc545c9930d7221cba82acf9c4adf9770d8244228283d65c27e9a817766552f",
+    "bytes": 44054738,
+    "observed_date": "2026-11-25"
+  },
+  "g207-meta.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE207nnn/GSE207750/matrix/GSE207750_series_matrix.txt.gz",
+    "sha256": "914cfa7b8987453e899c08287f8d80a5881c4849171879a5ee1b2f0f9ee23ceb",
+    "bytes": 15159,
+    "observed_date": "2026-11-25"
+  },
+  "forst-supp-alt.zip": {
+    "url": "https://mdpi-res.com/d_attachment/viruses/viruses-14-02446/article_deploy/viruses-14-02446-s001.zip",
+    "sha256": "57d51a1f95704b34be797f52f483c7f2a2526ba2465a924b9c1ebbf6c0cf9431",
+    "bytes": 46882018,
+    "observed_date": "2026-11-25"
+  },
+  "CIVR-HRP_SequencingRuns.tsv": {
+    "url": "https://raw.githubusercontent.com/GreshamLab/CIVR_HRP_Day0/2c817746b8587a9ead06d7376caba0bb0a5faadc/CIVR-HRP_SequencingRuns.tsv",
+    "sha256": "f35ba267113daa66e05c39857bb63b314dbfe9bdcd82666eb6f4cb33267a2a66",
+    "bytes": 10126,
+    "observed_date": "2026-11-25"
+  }
+}
