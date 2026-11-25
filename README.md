@@ -32,7 +32,7 @@ The first run fetches about 90 MB of source data. Only aggregate metrics and att
 
 ## Interpretation
 
-A single cohort, outcome and holdout split limit the claims. Clinical ridge was effectively tied with the median baseline in MAE. This is an independent comparison using a different analysis specification from the original study. SHAP explains the model's fitted predictions. It cannot establish that a gene causes antibody response.
+A single cohort, outcome and holdout split limit the claims. Clinical ridge was effectively tied with the median baseline in MAE. This is an independent comparison using a different analysis specification from the original study. SHAP values attribute the fitted model's predictions to features. Gene effects on antibody response would require independent causal evidence.
 
 ## Sources and licenses
 
